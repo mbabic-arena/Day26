@@ -1,4 +1,3 @@
-//App
 import "./App.css";
 import GetRequest from "./GetRequest";
 
