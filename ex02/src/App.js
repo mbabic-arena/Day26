@@ -1,4 +1,3 @@
-//App..
 import "./App.css";
 import GetRequestAsyncAwait from "./GetRequestAsyncAwait";
 
